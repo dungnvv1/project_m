@@ -12,7 +12,7 @@ export default class project_m extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Welcome to React 360
+            Welcome to React 360 demo test
           </Text>
         </View>
       </View>
